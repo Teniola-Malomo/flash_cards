@@ -9,4 +9,4 @@ Flash cards to support learning a new language, made using the Panda and Tkinter
 
 
 ## Image
-![image](https://user-images.githubusercontent.com/90845534/211130525-064f1034-b3a0-42c7-a53c-6390ecc04e29.png)
+![image](https://user-images.githubusercontent.com/90845534/211130557-9f64d66d-70f3-4457-88f4-f3f215a9d307.png)
