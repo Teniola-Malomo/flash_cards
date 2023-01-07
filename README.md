@@ -24,3 +24,6 @@ If they feel comfortalbe click
 
 
 ![image](https://user-images.githubusercontent.com/90845534/211130584-257a31af-26ea-43b7-a077-07c3f660c50f.png)
+
+
+Note: The images where in seperate folders called images and the french and english words in a folder called data.
